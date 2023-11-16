@@ -1,5 +1,5 @@
 <div>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=d98921&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=140&lines=It's+me%2C+Hi!;I'm+Alicia%2C+a+telecommunications+engineer+and+continuous+technology+learner+%E2%9C%A9" width="70%" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=4000&pause=300&color=d98921&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=140&lines=It's+me%2C+Hi!;I'm+Alicia%2C+a+telecommunications+engineer+and+continuous+technology+learner+%E2%9C%A9" width="150%" />
 
 <!--
 **alicia-basulto/alicia-basulto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
